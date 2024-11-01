@@ -1,4 +1,4 @@
-<p align="center"><a href="https://visulima.com" target="_blank"><img src="../assets/visulima_logo.svg" width="200" titel="visulima" /><h1 align="center">Visulima</h1></a></p>
+<p align="center"><a href="https://visulima.com" target="_blank"><img src="../assets/visulima_logo.svg" width="200" titel="visulima" /><p align="center">Visulima</p></a></p>
 
 ## About Visulima
 
