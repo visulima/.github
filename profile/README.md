@@ -27,6 +27,7 @@ Visulima is a Node.js-focused organization dedicated to delivering elegant, deve
 - **[Vis](https://github.com/visulima/visulima/tree/alpha/packages/tooling/vis)** — Monorepo dev toolkit: task runner, remote caching, security scanning, git hooks, and AI agent integrations.
 - **[Storage](https://github.com/visulima/visulima/tree/alpha/packages/storage/storage)** — Web-accessible file storage with a simplified API. S3, Azure, GCS, and local filesystem backends.
 - **[Pail](https://github.com/visulima/visulima/tree/alpha/packages/error-debugging/pail)** — Highly configurable logger for Node.js, Edge, and Browser.
+- **[Email](https://github.com/visulima/visulima/tree/alpha/packages/email/email)** — Comprehensive email library with multi-provider support, crypto utilities, and template engines.
 
 ## Get Involved
 
