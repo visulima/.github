@@ -20,7 +20,6 @@ Visulima is a Node.js-focused organization dedicated to delivering elegant, deve
 
 ## Featured Projects
 
-- **[Visulima](https://github.com/visulima/visulima)** — Monorepo of focused, developer-friendly tools and libraries.
 - **[Packem](https://github.com/visulima/packem)** — A fast and modern bundler for Node.js and TypeScript.
 - **[Cerebro](https://github.com/visulima/visulima/tree/alpha/packages/terminal/cerebro)** — A delightful toolkit for building cross-runtime CLIs for Node.js, Deno, and Bun.
 - **[TUI](https://github.com/visulima/visulima/tree/alpha/packages/terminal/tui)** — React-based TUI library powered by a native Rust diff engine, with a drop-in Ink-compatible API.
