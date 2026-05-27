@@ -16,17 +16,17 @@
 
 ## About Visulima
 
-Visulima is a Node.js-focused organization dedicated to delivering elegant, developer-friendly libraries. We believe development should be an enjoyable and creative experience — our tools emphasize simplicity, elegance, and readability, accessible to beginners yet powerful enough for advanced users.
+Visulima is a Node.js-focused organization dedicated to delivering elegant, developer-friendly libraries. We believe development should be an enjoyable and creative experience. Our tools emphasize simplicity, elegance, and readability, accessible to beginners yet powerful enough for advanced users.
 
 ## Featured Projects
 
-- **[Packem](https://github.com/visulima/packem)** — A fast and modern bundler for Node.js and TypeScript.
-- **[Cerebro](https://github.com/visulima/visulima/tree/alpha/packages/terminal/cerebro)** — A delightful toolkit for building cross-runtime CLIs for Node.js, Deno, and Bun.
-- **[TUI](https://github.com/visulima/visulima/tree/alpha/packages/terminal/tui)** — React-based TUI library powered by a native Rust diff engine, with a drop-in Ink-compatible API.
-- **[Vis](https://github.com/visulima/visulima/tree/alpha/packages/tooling/vis)** — Monorepo dev toolkit: task runner, remote caching, security scanning, git hooks, and AI agent integrations.
-- **[Storage](https://github.com/visulima/visulima/tree/alpha/packages/storage/storage)** — Web-accessible file storage with a simplified API. S3, Azure, GCS, and local filesystem backends.
-- **[Pail](https://github.com/visulima/visulima/tree/alpha/packages/error-debugging/pail)** — Highly configurable logger for Node.js, Edge, and Browser.
-- **[Email](https://github.com/visulima/visulima/tree/alpha/packages/email/email)** — Comprehensive email library with multi-provider support, crypto utilities, and template engines.
+- **[Packem](https://github.com/visulima/packem)**: a fast and modern bundler for Node.js and TypeScript.
+- **[Cerebro](https://github.com/visulima/visulima/tree/alpha/packages/terminal/cerebro)**: a delightful toolkit for building cross-runtime CLIs for Node.js, Deno, and Bun.
+- **[TUI](https://github.com/visulima/visulima/tree/alpha/packages/terminal/tui)**: React-based TUI library powered by a native Rust diff engine, with a drop-in Ink-compatible API.
+- **[Vis](https://github.com/visulima/visulima/tree/alpha/packages/tooling/vis)**: monorepo dev toolkit with task runner, remote caching, security scanning, git hooks, and AI agent integrations.
+- **[Storage](https://github.com/visulima/visulima/tree/alpha/packages/storage/storage)**: web-accessible file storage with a simplified API. S3, Azure, GCS, and local filesystem backends.
+- **[Pail](https://github.com/visulima/visulima/tree/alpha/packages/error-debugging/pail)**: highly configurable logger for Node.js, Edge, and Browser.
+- **[Email](https://github.com/visulima/visulima/tree/alpha/packages/email/email)**: comprehensive email library with multi-provider support, crypto utilities, and template engines.
 
 ## Get Involved
 
@@ -47,6 +47,6 @@ Visulima is a Node.js-focused organization dedicated to delivering elegant, deve
   </picture>
 </a>
 
-<sub>Your innovative Dev-Studio and AI-Studio — [anolilab.com](https://anolilab.com)</sub>
+<sub>Your innovative Dev-Studio and AI-Studio. [anolilab.com](https://anolilab.com)</sub>
 
 </div>
