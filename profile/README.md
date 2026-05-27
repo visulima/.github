@@ -8,7 +8,7 @@
 
 **Elegant syntax. Thoughtful APIs. Built for the way you actually work.**
 
-[Website](https://visulima.com) • [Packages](https://github.com/visulima/visulima) • [Discussions](https://github.com/orgs/visulima/discussions)
+[Website](https://visulima.com) • [Discussions](https://github.com/orgs/visulima/discussions)
 
 </div>
 
